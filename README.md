@@ -1,4 +1,5 @@
 # SMS Spam Detector - Render Deployment
+link = https://sms-spam-detector-pbjz.onrender.com/
 
 Files:
 - app.py: Flask API + web UI
